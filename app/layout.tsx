@@ -1,7 +1,7 @@
 import "./globals.css";
 
 export const metadata = {
-  title: "AyindeHoldings Notary Services",
+  title: "AY Holdings Notary Services",
   description: "Mobile notary services in Gainesville, Florida.",
 };
 
