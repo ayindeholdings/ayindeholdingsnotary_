@@ -93,11 +93,11 @@ export default function NotaryPublicWebsite() {
         <div className="mx-auto flex max-w-7xl items-center justify-between px-6 py-4">
           <div className="flex items-center gap-4">
             <div className="flex h-12 w-12 items-center justify-center rounded-2xl bg-slate-900 text-white shadow-sm">
-              <span className="text-lg font-bold tracking-[0.2em]">AH</span>
+              <span className="text-lg font-bold tracking-[0.2em]">PS</span>
             </div>
             <div>
               <div className="text-xl font-bold tracking-tight">
-                AyindeHoldings Notary Services
+                Premier Stamp Mobile Notary
               </div>
               <div className="text-sm text-slate-500">
                 Luxury • Professional • Mobile
@@ -171,7 +171,7 @@ export default function NotaryPublicWebsite() {
               via text or email shortly after.
             </p>
             <div className="mt-8 grid grid-cols-2 gap-4 text-sm md:grid-cols-3">
-              {["Mobile Appointments", "Open Daily 9AM–9PM", "Professional Signing Support"].map(
+              {["Mobile Appointments", "Open Daily 8AM–9PM", "Professional Signing Support"].map(
                 (item) => (
                   <div
                     key={item}
@@ -277,7 +277,7 @@ export default function NotaryPublicWebsite() {
               Professional service you can feel comfortable with
             </h2>
             <p className="mt-6 leading-8 text-slate-300">
-              AyindeHoldings Notary Services is committed to making notarization
+              Premier Stamp Mobile Notary is committed to making notarization
               convenient, respectful, and efficient. We understand that
               important documents often come with deadlines, life events, and
               sensitive situations, so every appointment is handled with
@@ -394,7 +394,7 @@ export default function NotaryPublicWebsite() {
               Serving Gainesville, Florida and surrounding areas
             </h2>
             <p className="mt-4 leading-8 text-slate-600">
-              AyindeHoldings Notary Services offers mobile notarization
+              Premier Stamp Mobile Notary offers mobile notarization
               throughout Gainesville, FL and nearby communities. Appointments
               are available for homes, offices, hospitals, care facilities, and
               other agreed meeting locations.
@@ -405,7 +405,7 @@ export default function NotaryPublicWebsite() {
                 FL
               </div>
               <div>
-                <span className="font-semibold">Hours:</span> Daily, 9:00 AM to
+                <span className="font-semibold">Hours:</span> Daily, 8:00 AM to
                 9:00 PM
               </div>
               <div>
@@ -504,7 +504,7 @@ export default function NotaryPublicWebsite() {
                 FL and surrounding areas
               </div>
               <div>
-                <span className="font-semibold">Hours:</span> Daily, 9:00 AM to
+                <span className="font-semibold">Hours:</span> Daily, 8:00 AM to
                 9:00 PM
               </div>
             </div>
@@ -564,7 +564,7 @@ export default function NotaryPublicWebsite() {
 
       <footer className="border-t border-slate-200 bg-slate-50">
         <div className="mx-auto flex max-w-7xl flex-col gap-3 px-6 py-8 text-sm text-slate-500 md:flex-row md:items-center md:justify-between">
-          <div>© 2026 AyindeHoldings Notary Services. All rights reserved.</div>
+          <div>© 2026 Premier Stamp Mobile Notary. All rights reserved.</div>
           <div>Notary public services by appointment only.</div>
         </div>
       </footer>
