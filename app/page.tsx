@@ -82,7 +82,7 @@ export default function NotaryPublicWebsite() {
 
   const mapUrl = "https://www.google.com/maps?q=Gainesville,FL&output=embed";
   const bookEmail =
-    "mailto:ayindeholdings@gmail.com?subject=Notary%20Appointment%20Request";
+    "mailto:booking@premierstampmobilenotary.com?subject=Notary%20Appointment%20Request";
   const bookPhone = "tel:+12024132006";
   const textNow = "sms:+12024132006";
   const squareLink = "https://square.link/u/1ZXFYl8e";
@@ -497,7 +497,7 @@ export default function NotaryPublicWebsite() {
               </div>
               <div>
                 <span className="font-semibold">Email:</span>{" "}
-                ayindeholdings@gmail.com
+                booking@premierstampmobilenotary.com
               </div>
               <div>
                 <span className="font-semibold">Service Area:</span> Gainesville,
