@@ -13,5 +13,5 @@ npm run dev
 
 ## Notes
 - Your Square payment link is already connected.
-- Main contact email: ayindeholdings@gmail.com
+- Main contact email: booking@premierstampmobilenotary.com
 - Main phone: (202) 413-2006
