@@ -1,4 +1,4 @@
-# AyindeHoldings Notary Services
+# Premier Stamp Mobile Notary
 
 ## Deploy on Vercel
 1. Upload this folder to a GitHub repo or drag it into Vercel.

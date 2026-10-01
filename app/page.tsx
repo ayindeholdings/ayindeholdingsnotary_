@@ -171,7 +171,7 @@ export default function NotaryPublicWebsite() {
               via text or email shortly after.
             </p>
             <div className="mt-8 grid grid-cols-2 gap-4 text-sm md:grid-cols-3">
-              {["Mobile Appointments", "Open Daily 8AM–9PM", "Professional Signing Support"].map(
+              {["Mobile Appointments", "Open Daily 9:00 AM–9:00 PM", "Professional Signing Support"].map(
                 (item) => (
                   <div
                     key={item}
@@ -405,7 +405,7 @@ export default function NotaryPublicWebsite() {
                 FL
               </div>
               <div>
-                <span className="font-semibold">Hours:</span> Daily, 8:00 AM to
+                <span className="font-semibold">Hours:</span> Daily, 9:00 AM to
                 9:00 PM
               </div>
               <div>
@@ -504,7 +504,7 @@ export default function NotaryPublicWebsite() {
                 FL and surrounding areas
               </div>
               <div>
-                <span className="font-semibold">Hours:</span> Daily, 8:00 AM to
+                <span className="font-semibold">Hours:</span> Daily, 9:00 AM to
                 9:00 PM
               </div>
             </div>
